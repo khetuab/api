@@ -1,0 +1,162 @@
+[
+  {
+    "assetId": "A001",
+    "id": "1",
+    "status": "pending",
+    "user": "user1"
+  },
+  {
+    "assetId": "A003",
+    "id": "2",
+    "status": "approved",
+    "user": "user2"
+  },
+  {
+    "assetId": "A005",
+    "id": "3",
+    "status": "denied",
+    "user": "user3"
+  },
+  {
+    "assetId": "A007",
+    "id": "4",
+    "status": "pending",
+    "user": "user4"
+  },
+  {
+    "assetId": "A009",
+    "id": "5",
+    "status": "approved",
+    "user": "user5"
+  },
+  {
+    "assetId": "A011",
+    "id": "6",
+    "status": "denied",
+    "user": "user6"
+  },
+  {
+    "assetId": "A013",
+    "id": "7",
+    "status": "pending",
+    "user": "user7"
+  },
+  {
+    "assetId": "A015",
+    "id": "8",
+    "status": "approved",
+    "user": "user1"
+  },
+  {
+    "assetId": "A017",
+    "id": "9",
+    "status": "denied",
+    "user": "user2"
+  },
+  {
+    "assetId": "A019",
+    "id": "10",
+    "status": "pending",
+    "user": "user3"
+  },
+  {
+    "assetId": "A002",
+    "id": "11",
+    "status": "approved",
+    "user": "user4"
+  },
+  {
+    "assetId": "A004",
+    "id": "12",
+    "status": "denied",
+    "user": "user5"
+  },
+  {
+    "assetId": "A006",
+    "id": "13",
+    "status": "pending",
+    "user": "user6"
+  },
+  {
+    "assetId": "A008",
+    "id": "14",
+    "status": "approved",
+    "user": "user7"
+  },
+  {
+    "assetId": "A010",
+    "id": "15",
+    "status": "denied",
+    "user": "user1"
+  },
+  {
+    "assetId": "A012",
+    "id": "16",
+    "status": "pending",
+    "user": "user2"
+  },
+  {
+    "assetId": "A014",
+    "id": "17",
+    "status": "approved",
+    "user": "user3"
+  },
+  {
+    "assetId": "A016",
+    "id": "18",
+    "status": "denied",
+    "user": "user4"
+  },
+  {
+    "assetId": "A018",
+    "id": "19",
+    "status": "pending",
+    "user": "user5"
+  },
+  {
+    "assetId": "A020",
+    "id": "20",
+    "status": "approved",
+    "user": "user6"
+  },
+  {
+    "id": "5cca",
+    "materialId": "A001"
+  },
+  {
+    "id": "6e44",
+    "materialId": "A001"
+  },
+  {
+    "id": "58f7",
+    "materialId": "A001"
+  },
+  {
+    "id": "b539",
+    "materialId": "A009"
+  },
+  {
+    "assetId": "A001",
+    "id": "1698",
+    "status": "pending",
+    "user": "user1"
+  },
+  {
+    "assetId": "A001",
+    "id": "9c83",
+    "status": "pending",
+    "user": "user1"
+  },
+  {
+    "assetId": "A001",
+    "id": "74dc",
+    "status": "pending",
+    "user": "user1"
+  },
+  {
+    "assetId": "A001",
+    "id": "ab3a",
+    "status": "pending",
+    "user": "user1"
+  }
+]
