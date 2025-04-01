@@ -248,203 +248,141 @@
       "id": "1",
       "user": "user1",
       "assetId": "A001",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "2",
       "user": "user2",
       "assetId": "A003",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "3",
       "user": "user3",
       "assetId": "A005",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "4",
       "user": "user4",
       "assetId": "A007",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "5",
       "user": "user5",
       "assetId": "A009",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "6",
       "user": "user6",
       "assetId": "A011",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "7",
       "user": "user7",
       "assetId": "A013",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "8",
       "user": "user1",
       "assetId": "A015",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "9",
       "user": "user2",
       "assetId": "A017",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "10",
       "user": "user3",
       "assetId": "A019",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "11",
       "user": "user4",
       "assetId": "A002",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "12",
       "user": "user5",
       "assetId": "A004",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "13",
       "user": "user6",
       "assetId": "A006",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "14",
       "user": "user7",
       "assetId": "A008",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "15",
       "user": "user1",
       "assetId": "A010",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "16",
       "user": "user2",
       "assetId": "A012",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "17",
       "user": "user3",
       "assetId": "A014",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     },
     {
       "id": "18",
       "user": "user4",
       "assetId": "A016",
-      "status": "denied"
+      "status": "denied",
+      "quantity": 1
     },
     {
       "id": "19",
       "user": "user5",
       "assetId": "A018",
-      "status": "pending"
+      "status": "pending",
+      "quantity": 1
     },
     {
       "id": "20",
       "user": "user6",
       "assetId": "A020",
-      "status": "approved"
-    },
-    {
-      "id": "5cca",
-      "materialId": "A001"
-    },
-    {
-      "id": "6e44",
-      "materialId": "A001"
-    },
-    {
-      "id": "58f7",
-      "materialId": "A001"
-    },
-    {
-      "id": "b539",
-      "materialId": "A009"
-    },
-    {
-      "id": "1698",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "pending"
-    },
-    {
-      "id": "9c83",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "pending"
-    },
-    {
-      "id": "74dc",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "pending"
-    },
-    {
-      "id": "ab3a",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "pending"
-    },
-    {
-      "id": "6dda",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "approved"
-    },
-    {
-      "id": "cc8e",
-      "user": "user1",
-      "assetId": "A005",
-      "status": "approved"
-    },
-    {
-      "id": "a636",
-      "user": "user1",
-      "assetId": "A008",
-      "status": "approved"
-    },
-    {
-      "id": "71ea",
-      "user": "user1",
-      "assetId": "A013",
-      "status": "approved"
-    },
-    {
-      "id": "bd79",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "approved"
-    },
-    {
-      "id": "593e",
-      "user": "user1",
-      "assetId": "A001",
-      "status": "approved"
-    },
-    {
-      "id": "d508",
-      "user": "user1",
-      "assetId": "A009",
-      "status": "approved"
+      "status": "approved",
+      "quantity": 1
     }
   ]
 }
