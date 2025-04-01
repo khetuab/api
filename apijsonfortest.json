@@ -1,168 +1,450 @@
-[
-  {
-    "assetId": "A001",
-    "id": "1",
-    "status": "pending",
-    "user": "user1"
-  },
-  {
-    "assetId": "A003",
-    "id": "2",
-    "status": "approved",
-    "user": "user2"
-  },
-  {
-    "assetId": "A005",
-    "id": "3",
-    "status": "denied",
-    "user": "user3"
-  },
-  {
-    "assetId": "A007",
-    "id": "4",
-    "status": "pending",
-    "user": "user4"
-  },
-  {
-    "assetId": "A009",
-    "id": "5",
-    "status": "approved",
-    "user": "user5"
-  },
-  {
-    "assetId": "A011",
-    "id": "6",
-    "status": "denied",
-    "user": "user6"
-  },
-  {
-    "assetId": "A013",
-    "id": "7",
-    "status": "pending",
-    "user": "user7"
-  },
-  {
-    "assetId": "A015",
-    "id": "8",
-    "status": "approved",
-    "user": "user1"
-  },
-  {
-    "assetId": "A017",
-    "id": "9",
-    "status": "denied",
-    "user": "user2"
-  },
-  {
-    "assetId": "A019",
-    "id": "10",
-    "status": "pending",
-    "user": "user3"
-  },
-  {
-    "assetId": "A002",
-    "id": "11",
-    "status": "approved",
-    "user": "user4"
-  },
-  {
-    "assetId": "A004",
-    "id": "12",
-    "status": "denied",
-    "user": "user5"
-  },
-  {
-    "assetId": "A006",
-    "id": "13",
-    "status": "pending",
-    "user": "user6"
-  },
-  {
-    "assetId": "A008",
-    "id": "14",
-    "status": "approved",
-    "user": "user7"
-  },
-  {
-    "assetId": "A010",
-    "id": "15",
-    "status": "denied",
-    "user": "user1"
-  },
-  {
-    "assetId": "A012",
-    "id": "16",
-    "status": "pending",
-    "user": "user2"
-  },
-  {
-    "assetId": "A014",
-    "id": "17",
-    "status": "approved",
-    "user": "user3"
-  },
-  {
-    "assetId": "A016",
-    "id": "18",
-    "status": "denied",
-    "user": "user4"
-  },
-  {
-    "assetId": "A018",
-    "id": "19",
-    "status": "pending",
-    "user": "user5"
-  },
-  {
-    "assetId": "A020",
-    "id": "20",
-    "status": "approved",
-    "user": "user6"
-  },
-  {
-    "id": "5cca",
-    "materialId": "A001"
-  },
-  {
-    "id": "6e44",
-    "materialId": "A001"
-  },
-  {
-    "id": "58f7",
-    "materialId": "A001"
-  },
-  {
-    "id": "b539",
-    "materialId": "A009"
-  },
-  {
-    "assetId": "A001",
-    "id": "1698",
-    "status": "pending",
-    "user": "user1"
-  },
-  {
-    "assetId": "A001",
-    "id": "9c83",
-    "status": "pending",
-    "user": "user1"
-  },
-  {
-    "assetId": "A001",
-    "id": "74dc",
-    "status": "pending",
-    "user": "user1"
-  },
-  {
-    "assetId": "A001",
-    "id": "ab3a",
-    "status": "pending",
-    "user": "user1"
-  },
-  {
-    "assetId": "A001",
-    "id": "ab3a",
-    "status": "pending",
-    "user": "user1"
-  }
-]
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "pass123",
+      "role": "normal"
+    },
+    {
+      "id": "2",
+      "username": "head1",
+      "password": "pass456",
+      "role": "head"
+    },
+    {
+      "id": "3",
+      "username": "store1",
+      "password": "pass789",
+      "role": "store"
+    },
+    {
+      "id": "4",
+      "username": "user2",
+      "password": "pass234",
+      "role": "normal"
+    },
+    {
+      "id": "5",
+      "username": "head2",
+      "password": "pass567",
+      "role": "head"
+    },
+    {
+      "id": "6",
+      "username": "store2",
+      "password": "pass890",
+      "role": "store"
+    },
+    {
+      "id": "7",
+      "username": "user3",
+      "password": "pass321",
+      "role": "normal"
+    },
+    {
+      "id": "8",
+      "username": "head3",
+      "password": "pass654",
+      "role": "head"
+    },
+    {
+      "id": "9",
+      "username": "store3",
+      "password": "pass987",
+      "role": "store"
+    },
+    {
+      "id": "10",
+      "username": "user4",
+      "password": "pass432",
+      "role": "normal"
+    },
+    {
+      "id": "11",
+      "username": "head4",
+      "password": "pass876",
+      "role": "head"
+    },
+    {
+      "id": "12",
+      "username": "store4",
+      "password": "pass210",
+      "role": "store"
+    },
+    {
+      "id": "13",
+      "username": "user5",
+      "password": "pass543",
+      "role": "normal"
+    },
+    {
+      "id": "14",
+      "username": "head5",
+      "password": "pass109",
+      "role": "head"
+    },
+    {
+      "id": "15",
+      "username": "store5",
+      "password": "pass321",
+      "role": "store"
+    },
+    {
+      "id": "16",
+      "username": "user6",
+      "password": "pass654",
+      "role": "normal"
+    },
+    {
+      "id": "17",
+      "username": "head6",
+      "password": "pass432",
+      "role": "head"
+    },
+    {
+      "id": "18",
+      "username": "store6",
+      "password": "pass876",
+      "role": "store"
+    },
+    {
+      "id": "19",
+      "username": "user7",
+      "password": "pass765",
+      "role": "normal"
+    },
+    {
+      "id": "20",
+      "username": "head7",
+      "password": "pass098",
+      "role": "head"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A001",
+      "name": "Laptop",
+      "owner": "user1",
+      "status": "available"
+    },
+    {
+      "id": "A002",
+      "name": "Printer",
+      "owner": "store1",
+      "status": "in use"
+    },
+    {
+      "id": "A003",
+      "name": "Monitor",
+      "owner": "user2",
+      "status": "available"
+    },
+    {
+      "id": "A004",
+      "name": "Scanner",
+      "owner": "store2",
+      "status": "in use"
+    },
+    {
+      "id": "A005",
+      "name": "Tablet",
+      "owner": "user3",
+      "status": "available"
+    },
+    {
+      "id": "A006",
+      "name": "Projector",
+      "owner": "store3",
+      "status": "in use"
+    },
+    {
+      "id": "A007",
+      "name": "Keyboard",
+      "owner": "user4",
+      "status": "available"
+    },
+    {
+      "id": "A008",
+      "name": "Mouse",
+      "owner": "store4",
+      "status": "in use"
+    },
+    {
+      "id": "A009",
+      "name": "External HDD",
+      "owner": "user5",
+      "status": "available"
+    },
+    {
+      "id": "A010",
+      "name": "Server",
+      "owner": "store5",
+      "status": "in use"
+    },
+    {
+      "id": "A011",
+      "name": "Router",
+      "owner": "user6",
+      "status": "available"
+    },
+    {
+      "id": "A012",
+      "name": "Switch",
+      "owner": "store6",
+      "status": "in use"
+    },
+    {
+      "id": "A013",
+      "name": "Smartphone",
+      "owner": "user7",
+      "status": "available"
+    },
+    {
+      "id": "A014",
+      "name": "Headphones",
+      "owner": "store1",
+      "status": "in use"
+    },
+    {
+      "id": "A015",
+      "name": "Camera",
+      "owner": "user2",
+      "status": "available"
+    },
+    {
+      "id": "A016",
+      "name": "Microphone",
+      "owner": "store2",
+      "status": "in use"
+    },
+    {
+      "id": "A017",
+      "name": "UPS",
+      "owner": "user3",
+      "status": "available"
+    },
+    {
+      "id": "A018",
+      "name": "VR Headset",
+      "owner": "store3",
+      "status": "in use"
+    },
+    {
+      "id": "A019",
+      "name": "Gaming Console",
+      "owner": "user4",
+      "status": "available"
+    },
+    {
+      "id": "A020",
+      "name": "Smartwatch",
+      "owner": "store4",
+      "status": "in use"
+    }
+  ],
+  "requests": [
+    {
+      "id": "1",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "user": "user2",
+      "assetId": "A003",
+      "status": "approved"
+    },
+    {
+      "id": "3",
+      "user": "user3",
+      "assetId": "A005",
+      "status": "denied"
+    },
+    {
+      "id": "4",
+      "user": "user4",
+      "assetId": "A007",
+      "status": "pending"
+    },
+    {
+      "id": "5",
+      "user": "user5",
+      "assetId": "A009",
+      "status": "approved"
+    },
+    {
+      "id": "6",
+      "user": "user6",
+      "assetId": "A011",
+      "status": "denied"
+    },
+    {
+      "id": "7",
+      "user": "user7",
+      "assetId": "A013",
+      "status": "pending"
+    },
+    {
+      "id": "8",
+      "user": "user1",
+      "assetId": "A015",
+      "status": "approved"
+    },
+    {
+      "id": "9",
+      "user": "user2",
+      "assetId": "A017",
+      "status": "denied"
+    },
+    {
+      "id": "10",
+      "user": "user3",
+      "assetId": "A019",
+      "status": "pending"
+    },
+    {
+      "id": "11",
+      "user": "user4",
+      "assetId": "A002",
+      "status": "approved"
+    },
+    {
+      "id": "12",
+      "user": "user5",
+      "assetId": "A004",
+      "status": "denied"
+    },
+    {
+      "id": "13",
+      "user": "user6",
+      "assetId": "A006",
+      "status": "pending"
+    },
+    {
+      "id": "14",
+      "user": "user7",
+      "assetId": "A008",
+      "status": "approved"
+    },
+    {
+      "id": "15",
+      "user": "user1",
+      "assetId": "A010",
+      "status": "denied"
+    },
+    {
+      "id": "16",
+      "user": "user2",
+      "assetId": "A012",
+      "status": "pending"
+    },
+    {
+      "id": "17",
+      "user": "user3",
+      "assetId": "A014",
+      "status": "approved"
+    },
+    {
+      "id": "18",
+      "user": "user4",
+      "assetId": "A016",
+      "status": "denied"
+    },
+    {
+      "id": "19",
+      "user": "user5",
+      "assetId": "A018",
+      "status": "pending"
+    },
+    {
+      "id": "20",
+      "user": "user6",
+      "assetId": "A020",
+      "status": "approved"
+    },
+    {
+      "id": "5cca",
+      "materialId": "A001"
+    },
+    {
+      "id": "6e44",
+      "materialId": "A001"
+    },
+    {
+      "id": "58f7",
+      "materialId": "A001"
+    },
+    {
+      "id": "b539",
+      "materialId": "A009"
+    },
+    {
+      "id": "1698",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "pending"
+    },
+    {
+      "id": "9c83",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "pending"
+    },
+    {
+      "id": "74dc",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "pending"
+    },
+    {
+      "id": "ab3a",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "pending"
+    },
+    {
+      "id": "6dda",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "approved"
+    },
+    {
+      "id": "cc8e",
+      "user": "user1",
+      "assetId": "A005",
+      "status": "approved"
+    },
+    {
+      "id": "a636",
+      "user": "user1",
+      "assetId": "A008",
+      "status": "approved"
+    },
+    {
+      "id": "71ea",
+      "user": "user1",
+      "assetId": "A013",
+      "status": "approved"
+    },
+    {
+      "id": "bd79",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "approved"
+    },
+    {
+      "id": "593e",
+      "user": "user1",
+      "assetId": "A001",
+      "status": "approved"
+    },
+    {
+      "id": "d508",
+      "user": "user1",
+      "assetId": "A009",
+      "status": "approved"
+    }
+  ]
+}
